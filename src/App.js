@@ -23,17 +23,19 @@ const App = () => {
     e.preventDefault();
     setSearch(e.target.value);
     console.log(search);
+    
   };
 
   const getSearch = e => {
     e.preventDefault();
     setQuery(search);
+    setSearch("");
   }
 
   return (
     <div className="App">
       <form onSubmit={getSearch} className="search-form">
-        <input className="search-bar " type="text" onChange={updateSearch}/>
+        <input className="search-bar " type="text" onChange={updateSearch} value={search}/>
         <button className="search-button" type="submit">Search</button>
 
       </form>
