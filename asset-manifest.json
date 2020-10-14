@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/recipe-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/recipe-app/static/js/main.9e7948fc.chunk.js",
-    "main.js.map": "/recipe-app/static/js/main.9e7948fc.chunk.js.map",
-    "runtime-main.js": "/recipe-app/static/js/runtime-main.14680ac4.js",
-    "runtime-main.js.map": "/recipe-app/static/js/runtime-main.14680ac4.js.map",
-    "static/js/2.e049d543.chunk.js": "/recipe-app/static/js/2.e049d543.chunk.js",
-    "static/js/2.e049d543.chunk.js.map": "/recipe-app/static/js/2.e049d543.chunk.js.map",
-    "index.html": "/recipe-app/index.html",
-    "precache-manifest.cbc22373087bff092119cc5a44dbb6f0.js": "/recipe-app/precache-manifest.cbc22373087bff092119cc5a44dbb6f0.js",
-    "service-worker.js": "/recipe-app/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/recipe-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.e049d543.chunk.js.LICENSE.txt": "/recipe-app/static/js/2.e049d543.chunk.js.LICENSE.txt"
+    "main.css": "/PracticeRecipeApp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/PracticeRecipeApp/static/js/main.3a8d40f8.chunk.js",
+    "main.js.map": "/PracticeRecipeApp/static/js/main.3a8d40f8.chunk.js.map",
+    "runtime-main.js": "/PracticeRecipeApp/static/js/runtime-main.a4415343.js",
+    "runtime-main.js.map": "/PracticeRecipeApp/static/js/runtime-main.a4415343.js.map",
+    "static/js/2.e049d543.chunk.js": "/PracticeRecipeApp/static/js/2.e049d543.chunk.js",
+    "static/js/2.e049d543.chunk.js.map": "/PracticeRecipeApp/static/js/2.e049d543.chunk.js.map",
+    "index.html": "/PracticeRecipeApp/index.html",
+    "precache-manifest.b55d4637fecab6c50c783ef7a606ceba.js": "/PracticeRecipeApp/precache-manifest.b55d4637fecab6c50c783ef7a606ceba.js",
+    "service-worker.js": "/PracticeRecipeApp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/PracticeRecipeApp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e049d543.chunk.js.LICENSE.txt": "/PracticeRecipeApp/static/js/2.e049d543.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.14680ac4.js",
+    "static/js/runtime-main.a4415343.js",
     "static/js/2.e049d543.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.9e7948fc.chunk.js"
+    "static/js/main.3a8d40f8.chunk.js"
   ]
 }
